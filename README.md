@@ -1,3 +1,5 @@
+![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
 # site-portfolio
 _Esse é um projeto de portfolio com **HTML**, CSS e **Javascript**_
 
@@ -17,3 +19,7 @@ Entendo o que é **git**, _aprendendo sobre repositórios, trabalhando com branc
 
 ###### Titulo
 
+### Rede Social
+[Instagram](https://instagram.com/sujeitoprogramador)
+
+[Youtube](https://youtube.com/c/sujeitoprogramador)
